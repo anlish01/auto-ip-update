@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://addressesapi.090227.xyz/ip.164746.xyz",
+    "remark": "ip.164746.xyz"
+  },
+  {
+    "url": "https://cf.090227.xyz/",
+    "remark": "cf.090227.xyz"
+  },
+  {
+    "url": "https://addressesapi.090227.xyz/ct",
+    "remark": "CT"
+  },
+  {
+    "url": "https://addressesapi.090227.xyz/cmcc-ipv6",
+    "remark": "CMCC"
+  },
+  {
+    "url": "https://addressesapi.090227.xyz/CloudFlareYes",
+    "remark": "CloudFlareYes"
+  },
+  {
+    "url": "https://ip.164746.xyz/",
+    "remark": "ip.164746.xyz"
+  },
+  {
+    "url": "https://ipdb.api.030101.xyz/?type=bestcf&country=true",
+    "remark": "030101.xyz"
+  },
+  {
+    "url": "https://ipdb.api.030101.xyz/?type=bestcf&country=true",
+    "remark": "ipdb.api.030101.xyz"
+  },
+  {
+    "url": "https://ipdb.api.030101.xyz/?type=bestproxy&country=true",
+    "remark": "bestproxy"
+  }
+]
