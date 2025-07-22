@@ -1,6 +1,6 @@
 name: Auto Update 优选IP
 
-于:
+on:
   schedule:
     - cron: '0 0 12 ? * WED'  # 每周三中午12：00运行一次
   workflow_dispatch:
