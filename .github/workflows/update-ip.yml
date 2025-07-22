@@ -2,7 +2,7 @@ name: Auto Update 优选IP
 
 on:
   schedule:
-    - cron: '0 */23 * * *' # 每23小时运行一次
+    - cron: '0 8 * * 1' # 每周一8点运行一次
   workflow_dispatch:
 
 jobs:
